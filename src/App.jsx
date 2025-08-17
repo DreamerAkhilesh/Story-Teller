@@ -30,7 +30,7 @@ function App() {
                         Uses a consistent art style, color palette, and character design across all images.
                         Shows visual continuity, so the images relate to each other (e.g., same character, same environment, recurring objects).
                         Is engaging, whimsical, and slightly animated, like a high-quality cartoon or animated movie still.
-                        Label each image with its story scene (e.g., Scene 1: Beginning, Scene 2: Discovery, Scene 3: Encounter, etc.) so that together, the images visually narrate the story as well as the text does.
+                        Label each image with its story scene (e.g., Page 1: Beginning, Page 2: Discovery, Page 3: Encounter, etc.) so that together, the images visually narrate the story as well as the text does.
                         Print the story only not image details: ${prompt}` },
             ],
           },
