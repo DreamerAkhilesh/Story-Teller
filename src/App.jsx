@@ -24,7 +24,13 @@ function App() {
           {
             role: "user",
             parts: [
-              { text: `Write a short story and illustrate it with atleast 6 related and animated images: ${prompt}` },
+              { text: `Write a short story and illustrate it with atleast 6 related and animated images:
+                        For each scene, generate a corresponding animated-style illustration that:
+                        Clearly represents the specific moment in the story.
+                        Uses a consistent art style, color palette, and character design across all six images.
+                        Shows visual continuity, so the images relate to each other (e.g., same character, same environment, recurring objects).
+                        Is engaging, whimsical, and slightly animated, like a high-quality cartoon or animated movie still.
+                        Label each image with its story scene (e.g., Scene 1: Beginning, Scene 2: Discovery, Scene 3: Encounter, etc.) so that together, the images visually narrate the story as well as the text does.: ${prompt}` },
             ],
           },
         ],
