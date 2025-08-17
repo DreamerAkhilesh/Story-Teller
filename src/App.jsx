@@ -24,7 +24,7 @@ function App() {
           {
             role: "user",
             parts: [
-              { text: `Write a short story and illustrate it: ${prompt}` },
+              { text: `Write a short story and illustrate it with atleast 6 related images: ${prompt}` },
             ],
           },
         ],
