@@ -2,6 +2,8 @@
 
 A React-based web application that leverages Google's Gemini AI to generate stories. This project was created during the PanScience hackathon.
 
+🌐 **Live Demo:** [https://story-teller-kohl.vercel.app/](https://story-teller-kohl.vercel.app/)
+
 ## 🚀 Features
 
 - Interactive story generation using Gemini AI
